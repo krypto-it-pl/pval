@@ -1,6 +1,7 @@
 # pval
 Print preffiex value
 
+```
 Usage: pval [-stnwxkMGTPEZY] decimal_number
   -s  - SI prefixes (base = 1000 instead of 1024
   -t  - 0.000 instead of 0.00 format
@@ -17,3 +18,4 @@ Usage: pval [-stnwxkMGTPEZY] decimal_number
   E   - exbi / exa     (base ^ 6)
   Z   - zebi / zetta   (base ^ 7)
   Y   - yobi / yotta   (base ^ 8)
+```
