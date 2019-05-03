@@ -1,5 +1,5 @@
 # pval
-Print preffiex value
+Print prefixed value
 
 ```
 Usage: pval [-stnwxkMGTPEZY] decimal_number
